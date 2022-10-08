@@ -2,8 +2,7 @@
 
 * {
     background-color: rgb(76, 172, 117);
-    cursor: url(../images/cursor.png), crosshair;
-}
+    cursor: url(../images/cursor.png), grabbing;
 
 
 /* Attribute Selector */

@@ -1,0 +1,5 @@
+/* Universal Selector */
+
+* {
+    background-color: rgb(76, 172, 117);
+    cursor: url(../images/cursor.png), crosshair;

@@ -3,3 +3,14 @@
 * {
     background-color: rgb(76, 172, 117);
     cursor: url(../images/cursor.png), crosshair;
+}
+
+
+/* Attribute Selector */
+    
+[src] {
+     display: block;
+    margin: 0 auto;
+    border-radius: 42%;  
+}
+    

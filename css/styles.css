@@ -4,6 +4,7 @@
     background-color: rgb(76, 172, 117);
     cursor: url(../images/cursor.png), grabbing;
 
+}
 
 /* Attribute Selector */
     
@@ -12,6 +13,7 @@
     margin: 0 auto;
     border-radius: 42%;  
 }
+
 
 /* Element Selector */
 
@@ -22,8 +24,33 @@ h2 {
 
 ul li {
     font-size: 24px;
-    color: rgb(20, 97, 141);
+    color: rgb(221, 27, 40);
     list-style: upper-roman inside;
     text-align: center;
 }
 
+
+/* Class Selector */
+
+.section-font {
+    font-family: Impact, 'Arial Bold', 'Arial', sans-serif;
+}
+
+.about-me {
+    font-family: cursive;
+}
+
+
+/* ID Selector */
+
+#favorite {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    border-color: rgb(221, 27, 40);
+    border-style: solid;
+    border-width: 6px;
+}
